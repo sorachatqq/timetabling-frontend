@@ -3,12 +3,12 @@ import Search from '@/component/search';
 import React, { useState } from 'react';
 import { Card, Title, Text, Button, Select, MultiSelect, MultiSelectItem, NumberInput } from '@tremor/react';
 import { useRouter } from 'next/navigation'
-import exams from '../../mock/exams.json'
-import periods from '../../mock/period.json'
-import rooms from '../../mock/rooms.json'
-import students from '../../mock/student.json'
-import instructors from '../../mock/instructors.json'
-import params from '../../mock/params.json'
+import exams from '../../public/json/exams.json'
+import periods from '../../public/json/period.json'
+import rooms from '../../public/json/rooms.json'
+import students from '../../public/json/student.json'
+import instructors from '../../public/json/instructors.json'
+import params from '../../public/json/params.json'
 
 interface ICardInfo {
   id: number;

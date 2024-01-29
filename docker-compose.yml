@@ -1,0 +1,20 @@
+version: "3.7"
+services:
+  app:
+    container_name: unitime-app
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    ports:
+      - "3001:3000"
+    networks:
+      - caddy
+    labels:
+      caddy: unitime-app.aomdev.com
+      caddy.reverse_proxy: "{{ upstreams 3000 }}"
+networks:
+  caddy:
+    external: true
