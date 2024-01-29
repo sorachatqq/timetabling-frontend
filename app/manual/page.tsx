@@ -34,12 +34,25 @@ interface IPeriodInfo {
   penalty: string;
 }
 
+interface IRoomInfo {
+  id: string;
+  size: string;
+  alt: string;
+  coordinates: string;
+}
+
 interface IParams {
   parameters: {
     property: Array<{
       name: string;
       value: string;
     }>;
+  };
+}
+
+interface IRooms {
+  rooms: {
+    room: IRoomInfo[];
   };
 }
 
@@ -104,8 +117,16 @@ export default function ResultPage() {
     [exam.id]: exam.period.map((p) => p.id),
   })).reduce((acc: any, val: any) => ({ ...acc, ...val }), {});
 
+  const initialRooms = exams.exams.exam.map((exam: IExamInfo) => ({
+    [exam.id]: exam.room.map((p) => p.id),
+  })).reduce((acc: any, val: any) => ({ ...acc, ...val }), {});
+
   const [selectedPeriods, setSelectedPeriods] = useState<{ [examId: string]: string[] }>(
     initialSelectedPeriods
+  );
+
+  const [selectedRooms, setSelectedRooms] = useState<{ [roomId: string]: string[] }>(
+    initialRooms
   );
 
   const handleAverageChange = (examId: any, newAverage: any) => {
@@ -120,6 +141,13 @@ export default function ResultPage() {
     setSelectedPeriods((prevSelectedPeriods) => ({
       ...prevSelectedPeriods,
       [examId]: selectedPeriodIds,
+    }));
+  };
+
+  const handleRoomChange = (examId: string, selectedRoomIds: any[]) => {
+    setSelectedRooms((prevSelectedPeriods) => ({
+      ...prevSelectedPeriods,
+      [examId]: selectedRoomIds,
     }));
   };
 
@@ -150,6 +178,13 @@ export default function ResultPage() {
     setSelectedPeriods(prevSelectedPeriods => ({
       ...prevSelectedPeriods,
       [examId]: newSelectedPeriods,
+    }));
+  };  
+
+  const handleRemoveRoom = (examId: string, newSelectedRooms: string[]) => {
+    setSelectedRooms(prevSelectedRooms => ({
+      ...prevSelectedRooms,
+      [examId]: newSelectedRooms,
     }));
   };  
 
@@ -228,6 +263,21 @@ export default function ResultPage() {
                 {periods.periods.period.map((period: IPeriodInfo) => (
                   <MultiSelectItem key={period.id} value={period.id}>
                     {`${period.day} ${period.time}`}
+                  </MultiSelectItem>
+                ))}
+              </MultiSelect>
+            </div>
+            <div>
+              <Text className="mb-1">Select Room size:</Text>
+              <MultiSelect
+                value={selectedRooms[examData.id] || []}
+                onChange={(selectedItems: any) => handleRoomChange(examData.id, selectedItems)}
+                onValueChange={(removedItemId: any) => handleRemoveRoom(examData.id, removedItemId)}
+                placeholder="Select Rooms"
+              >
+                {rooms.rooms.room.map((room: IRoomInfo) => (
+                  <MultiSelectItem key={room.id} value={room.id}>
+                    {`Room: ${room.id} Size: ${room.size}`}
                   </MultiSelectItem>
                 ))}
               </MultiSelect>
