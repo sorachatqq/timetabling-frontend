@@ -3,7 +3,7 @@ import { sql } from '@vercel/postgres';
 import { Card, Title, Text, Button, Grid } from '@tremor/react';
 import Search from '../component/search';
 import FileUpload from '../component/fileUpload';
-import mockData from '../../mock/data.json';
+import mockData from '../../public/json/data.json';
 import { GetServerSideProps } from 'next';
 
 interface Exam {
