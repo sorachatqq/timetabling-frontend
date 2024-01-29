@@ -1,5 +1,4 @@
 
-import { sql } from '@vercel/postgres';
 import { Card, Title, Text, Button, Grid } from '@tremor/react';
 import Search from '../component/search';
 import FileUpload from '../component/fileUpload';

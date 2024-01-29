@@ -84,7 +84,6 @@ const StatusIcon = ({ status }: { status: ICardInfo['status'] }) => {
 export default function ResultPage() {
   const router = useRouter();
   const newdate = new Date();
-  const [selectedPeriods, setSelectedPeriods] = useState<{ [examId: string]: string[] }>({});
 
   const [allDataState, setAllDataState] = useState<ICompleteDataStructure>({
     examtt: {
@@ -101,7 +100,14 @@ export default function ResultPage() {
 
   const [modifiableExams, setModifiableExams] = useState(allDataState.examtt.exams.exam);
 
-  // Function to handle changes to exam averages
+  const initialSelectedPeriods = exams.exams.exam.map((exam: IExamInfo) => ({
+    [exam.id]: exam.period.map((p) => p.id),
+  })).reduce((acc: any, val: any) => ({ ...acc, ...val }), {});
+
+  const [selectedPeriods, setSelectedPeriods] = useState<{ [examId: string]: string[] }>(
+    initialSelectedPeriods
+  );
+
   const handleAverageChange = (examId: any, newAverage: any) => {
     setModifiableExams((currentExams: any[]) =>
       currentExams.map((exam: { id: any; }) =>
@@ -139,6 +145,13 @@ export default function ResultPage() {
       },
     }));
   };
+
+  const handleRemovePeriod = (examId: string, newSelectedPeriods: string[]) => {
+    setSelectedPeriods(prevSelectedPeriods => ({
+      ...prevSelectedPeriods,
+      [examId]: newSelectedPeriods,
+    }));
+  };  
 
   const handleDownloadJson = () => {
     const updatedAllDataState = {
@@ -209,6 +222,7 @@ export default function ResultPage() {
               <MultiSelect
                 value={selectedPeriods[examData.id] || []}
                 onChange={(selectedItems: any) => handlePeriodChange(examData.id, selectedItems)}
+                onValueChange={(removedItemId: any) => handleRemovePeriod(examData.id, removedItemId)}
                 placeholder="Select Periods"
               >
                 {periods.periods.period.map((period: IPeriodInfo) => (
