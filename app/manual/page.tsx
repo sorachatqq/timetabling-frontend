@@ -147,17 +147,32 @@ export default function ResultPage() {
         ...allDataState.examtt,
         exams: {
           ...allDataState.examtt.exams,
-          exam: modifiableExams, // Use the updated exams data
+          exam: modifiableExams,
         },
       },
     };
-
-    // Convert the updated data to a JSON blob
+  
+    for (const examId in selectedPeriods) {
+      if (selectedPeriods.hasOwnProperty(examId)) {
+        const selectedPeriodIds = selectedPeriods[examId];
+        updatedAllDataState.examtt.exams.exam = updatedAllDataState.examtt.exams.exam.map((exam: { id: any; }) => {
+          if (exam.id === examId) {
+            return {
+              ...exam,
+              period: selectedPeriodIds.map((id: any) => ({ id })),
+            };
+          }
+          return exam;
+        });
+      }
+    }
+  
+    // 3. Convert the updated data to a JSON blob
     const jsonData = JSON.stringify(updatedAllDataState, null, 2);
     const blob = new Blob([jsonData], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
-
-    // Create a link and trigger the download
+  
+    // 4. Create a link and trigger the download
     const link = document.createElement('a');
     link.href = url;
     link.download = 'updated_examtt_data.json';
@@ -165,7 +180,6 @@ export default function ResultPage() {
     link.click();
     document.body.removeChild(link);
   };
-
 
   return (
     <main className="p-4 md:p-10 mx-auto max-w-7xl">
