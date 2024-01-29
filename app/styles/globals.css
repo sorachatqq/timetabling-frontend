@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex {
+    display: flex;
+}
+  
+.justify-end {
+    justify-content: flex-end;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+  
+.green-button {
+    background-color: #45a049;
+    color: white;
+    border: 1px solid transparent;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.green-button:hover {
+    background-color: #447946 !important;
+    border: 1px solid transparent !important;
+    color: white;
+}

@@ -1,0 +1,1904 @@
+{
+    "data": {
+        "id": 1,
+        "input": {
+            "examtt": {
+                "exams": {
+                    "exam": [
+                        {
+                            "id": "1",
+                            "alt": "true",
+                            "room": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ],
+                            "average": "17",
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "2",
+                            "alt": "true",
+                            "room": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ],
+                            "average": "17",
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "3",
+                            "alt": "true",
+                            "room": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "5"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "9"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "average": "17",
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "4",
+                            "alt": "true",
+                            "room": [
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "average": "17",
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "5",
+                            "alt": "true",
+                            "room": [
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "average": "17",
+                            "printOffset": "0"
+                        }
+                    ]
+                },
+                "rooms": {
+                    "room": [
+                        {
+                            "id": "1",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "2",
+                            "alt": "20",
+                            "size": "40",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "3",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "4",
+                            "alt": "10",
+                            "size": "20",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "5",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "6",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "7",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "8",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "9",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "10",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        }
+                    ]
+                },
+                "created": "Tue Feb 12 13:45:28 CET 2013",
+                "periods": {
+                    "period": [
+                        {
+                            "id": "1",
+                            "day": "Mon 04/30",
+                            "time": "8:00a - 10:00a",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "2",
+                            "day": "Mon 04/30",
+                            "time": "10:20a - 12:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "3",
+                            "day": "Mon 04/30",
+                            "time": "1:00p - 3:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "4",
+                            "day": "Mon 04/30",
+                            "time": "3:20p - 5:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "5",
+                            "day": "Mon 04/30",
+                            "time": "7:00p - 9:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "6",
+                            "day": "Tue 05/01",
+                            "time": "8:00a - 10:00a",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "7",
+                            "day": "Tue 05/01",
+                            "time": "10:20a - 12:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "8",
+                            "day": "Tue 05/01",
+                            "time": "1:00p - 3:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "9",
+                            "day": "Tue 05/01",
+                            "time": "3:20p - 5:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "10",
+                            "day": "Tue 05/01",
+                            "time": "7:00p - 9:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        }
+                    ]
+                },
+                "version": "1.0",
+                "students": {
+                    "student": [
+                        {
+                            "id": "1",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "10",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "11",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "12",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "13",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "14",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "15",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "16",
+                            "exam": [
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17",
+                            "exam": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "18",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "19",
+                            "exam": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "20",
+                            "exam": [
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parameters": {
+                    "property": [
+                        {
+                            "name": "backToBackConflictWeight",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "backToBackDistance",
+                            "value": "-1.0"
+                        },
+                        {
+                            "name": "directConflictWeight",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "distanceBackToBackConflictWeight",
+                            "value": "25.0"
+                        },
+                        {
+                            "name": "distanceToStronglyPreferredRoomWeight",
+                            "value": "1.0E-4"
+                        },
+                        {
+                            "name": "distributionWeight",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "examRotationWeight",
+                            "value": "1.0E-4"
+                        },
+                        {
+                            "name": "instructorBackToBackConflictWeight",
+                            "value": "0.0"
+                        },
+                        {
+                            "name": "instructorDirectConflictWeight",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "instructorDistanceBackToBackConflictWeight",
+                            "value": "0.0"
+                        },
+                        {
+                            "name": "instructorMoreThanTwoADayWeight",
+                            "value": "0.0"
+                        },
+                        {
+                            "name": "isDayBreakBackToBack",
+                            "value": "false"
+                        },
+                        {
+                            "name": "largePeriod",
+                            "value": "0.86"
+                        },
+                        {
+                            "name": "largeSize",
+                            "value": "600"
+                        },
+                        {
+                            "name": "largeWeight",
+                            "value": "2500000.0"
+                        },
+                        {
+                            "name": "maxRooms",
+                            "value": "4"
+                        },
+                        {
+                            "name": "moreThanTwoADayWeight",
+                            "value": "100.0"
+                        },
+                        {
+                            "name": "mpp",
+                            "value": "false"
+                        },
+                        {
+                            "name": "periodIndexWeight",
+                            "value": "1.0E-7"
+                        },
+                        {
+                            "name": "periodSizeWeight",
+                            "value": "0.5"
+                        },
+                        {
+                            "name": "periodWeight",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "perturbationWeight",
+                            "value": "0.0010"
+                        },
+                        {
+                            "name": "roomPerturbationWeight",
+                            "value": "0.1"
+                        },
+                        {
+                            "name": "roomSizeFactor",
+                            "value": "1.1"
+                        },
+                        {
+                            "name": "roomSizeWeight",
+                            "value": "0.0010"
+                        },
+                        {
+                            "name": "roomSplitDistanceWeight",
+                            "value": "0.01"
+                        },
+                        {
+                            "name": "roomSplitWeight",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "roomWeight",
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                "instructors": {
+                    "instructor": [
+                        {
+                            "id": "1",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "exam": [
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "exam": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5",
+                            "exam": [
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "output": {
+            "examtt": {
+                "exams": {
+                    "exam": [
+                        {
+                            "id": "1",
+                            "alt": "true",
+                            "best": {
+                                "room": {
+                                    "id": "2"
+                                },
+                                "period": {
+                                    "id": "3"
+                                }
+                            },
+                            "enrl": "16",
+                            "room": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "5"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ],
+                            "average": "17",
+                            "assignment": {
+                                "room": {
+                                    "id": "2"
+                                },
+                                "period": {
+                                    "id": "3"
+                                }
+                            },
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "2",
+                            "alt": "true",
+                            "best": {
+                                "room": {
+                                    "id": "2"
+                                },
+                                "period": {
+                                    "id": "1"
+                                }
+                            },
+                            "enrl": "17",
+                            "room": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "5"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ],
+                            "average": "17",
+                            "assignment": {
+                                "room": {
+                                    "id": "2"
+                                },
+                                "period": {
+                                    "id": "1"
+                                }
+                            },
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "3",
+                            "alt": "true",
+                            "best": {
+                                "room": [
+                                    {
+                                        "id": "1"
+                                    },
+                                    {
+                                        "id": "3"
+                                    }
+                                ],
+                                "period": {
+                                    "id": "8"
+                                }
+                            },
+                            "enrl": "17",
+                            "room": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "5"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "9"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "average": "17",
+                            "assignment": {
+                                "room": [
+                                    {
+                                        "id": "1"
+                                    },
+                                    {
+                                        "id": "3"
+                                    }
+                                ],
+                                "period": {
+                                    "id": "8"
+                                }
+                            },
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "4",
+                            "alt": "true",
+                            "best": {
+                                "room": [
+                                    {
+                                        "id": "6"
+                                    },
+                                    {
+                                        "id": "10"
+                                    }
+                                ],
+                                "period": {
+                                    "id": "6"
+                                }
+                            },
+                            "enrl": "18",
+                            "room": [
+                                {
+                                    "id": "10"
+                                },
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "average": "17",
+                            "assignment": {
+                                "room": [
+                                    {
+                                        "id": "6"
+                                    },
+                                    {
+                                        "id": "10"
+                                    }
+                                ],
+                                "period": {
+                                    "id": "6"
+                                }
+                            },
+                            "printOffset": "0"
+                        },
+                        {
+                            "id": "5",
+                            "alt": "true",
+                            "best": {
+                                "room": [
+                                    {
+                                        "id": "6"
+                                    },
+                                    {
+                                        "id": "10"
+                                    }
+                                ],
+                                "period": {
+                                    "id": "10"
+                                }
+                            },
+                            "enrl": "17",
+                            "room": [
+                                {
+                                    "id": "10"
+                                },
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                }
+                            ],
+                            "length": "120",
+                            "period": [
+                                {
+                                    "id": "6"
+                                },
+                                {
+                                    "id": "7"
+                                },
+                                {
+                                    "id": "8"
+                                },
+                                {
+                                    "id": "9"
+                                },
+                                {
+                                    "id": "10"
+                                }
+                            ],
+                            "average": "17",
+                            "assignment": {
+                                "room": [
+                                    {
+                                        "id": "6"
+                                    },
+                                    {
+                                        "id": "10"
+                                    }
+                                ],
+                                "period": {
+                                    "id": "10"
+                                }
+                            },
+                            "printOffset": "0"
+                        }
+                    ]
+                },
+                "rooms": {
+                    "room": [
+                        {
+                            "id": "1",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "2",
+                            "alt": "20",
+                            "size": "40",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "3",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "4",
+                            "alt": "10",
+                            "size": "20",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "5",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "6",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "7",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "8",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "9",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        },
+                        {
+                            "id": "10",
+                            "alt": "15",
+                            "size": "30",
+                            "coordinates": "40.421707,-86.91657"
+                        }
+                    ]
+                },
+                "created": "Tue Nov 14 15:41:17 GMT 2023",
+                "periods": {
+                    "period": [
+                        {
+                            "id": "1",
+                            "day": "Mon 04/30",
+                            "time": "8:00a - 10:00a",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "2",
+                            "day": "Mon 04/30",
+                            "time": "10:20a - 12:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "3",
+                            "day": "Mon 04/30",
+                            "time": "1:00p - 3:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "4",
+                            "day": "Mon 04/30",
+                            "time": "3:20p - 5:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "5",
+                            "day": "Mon 04/30",
+                            "time": "7:00p - 9:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "6",
+                            "day": "Tue 05/01",
+                            "time": "8:00a - 10:00a",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "7",
+                            "day": "Tue 05/01",
+                            "time": "10:20a - 12:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "8",
+                            "day": "Tue 05/01",
+                            "time": "1:00p - 3:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "9",
+                            "day": "Tue 05/01",
+                            "time": "3:20p - 5:20p",
+                            "length": "120",
+                            "penalty": "0"
+                        },
+                        {
+                            "id": "10",
+                            "day": "Tue 05/01",
+                            "time": "7:00p - 9:00p",
+                            "length": "120",
+                            "penalty": "0"
+                        }
+                    ]
+                },
+                "version": "1.0",
+                "students": {
+                    "student": [
+                        {
+                            "id": "1",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "10",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "11",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "12",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "13",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "14",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "15",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "16",
+                            "exam": [
+                                {
+                                    "id": "4"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17",
+                            "exam": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "18",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "19",
+                            "exam": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "20",
+                            "exam": [
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parameters": {
+                    "property": [
+                        {
+                            "name": "backToBackConflictWeight",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "backToBackDistance",
+                            "value": "-1.0"
+                        },
+                        {
+                            "name": "checkForPeriodOverlaps",
+                            "value": "false"
+                        },
+                        {
+                            "name": "directConflictWeight",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "distanceBackToBackConflictWeight",
+                            "value": "25.0"
+                        },
+                        {
+                            "name": "distanceToStronglyPreferredRoomWeight",
+                            "value": "1.0E-4"
+                        },
+                        {
+                            "name": "distributionWeight",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "examRotationWeight",
+                            "value": "1.0E-4"
+                        },
+                        {
+                            "name": "instructorBackToBackConflictWeight",
+                            "value": "0.0"
+                        },
+                        {
+                            "name": "instructorDirectConflictWeight",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "instructorDistanceBackToBackConflictWeight",
+                            "value": "0.0"
+                        },
+                        {
+                            "name": "instructorMoreThanTwoADayWeight",
+                            "value": "0.0"
+                        },
+                        {
+                            "name": "isDayBreakBackToBack",
+                            "value": "false"
+                        },
+                        {
+                            "name": "largePeriod",
+                            "value": "0.86"
+                        },
+                        {
+                            "name": "largeSize",
+                            "value": "600"
+                        },
+                        {
+                            "name": "largeWeight",
+                            "value": "2500000.0"
+                        },
+                        {
+                            "name": "maxRooms",
+                            "value": "4"
+                        },
+                        {
+                            "name": "moreThanTwoADayWeight",
+                            "value": "100.0"
+                        },
+                        {
+                            "name": "mpp",
+                            "value": "false"
+                        },
+                        {
+                            "name": "periodIndexWeight",
+                            "value": "1.0E-7"
+                        },
+                        {
+                            "name": "periodSizeWeight",
+                            "value": "0.5"
+                        },
+                        {
+                            "name": "periodWeight",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "perturbationWeight",
+                            "value": "0.001"
+                        },
+                        {
+                            "name": "roomPerturbationWeight",
+                            "value": "0.1"
+                        },
+                        {
+                            "name": "roomSizeFactor",
+                            "value": "1.1"
+                        },
+                        {
+                            "name": "roomSizeWeight",
+                            "value": "0.001"
+                        },
+                        {
+                            "name": "roomSplitDistanceWeight",
+                            "value": "0.01"
+                        },
+                        {
+                            "name": "roomSplitWeight",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "roomWeight",
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                "constraints": {},
+                "instructors": {
+                    "instructor": [
+                        {
+                            "id": "1",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "exam": [
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "exam": [
+                                {
+                                    "id": "1"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "exam": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5",
+                            "exam": [
+                                {
+                                    "id": "3"
+                                },
+                                {
+                                    "id": "5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "accepted_at": "2023-11-14T13:41:13.141Z",
+        "completed_at": "2023-11-14T15:41:17.788Z",
+        "deleted_at": null,
+        "created_at": "2023-11-14T13:40:46.812Z",
+        "updated_at": "2023-11-14T15:41:17.796Z"
+    }
+}

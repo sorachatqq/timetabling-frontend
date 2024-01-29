@@ -1,0 +1,118 @@
+{
+    "parameters": {
+        "property": [
+            {
+                "name": "backToBackConflictWeight",
+                "value": "10.0"
+            },
+            {
+                "name": "backToBackDistance",
+                "value": "-1.0"
+            },
+            {
+                "name": "directConflictWeight",
+                "value": "1000.0"
+            },
+            {
+                "name": "distanceBackToBackConflictWeight",
+                "value": "25.0"
+            },
+            {
+                "name": "distanceToStronglyPreferredRoomWeight",
+                "value": "1.0E-4"
+            },
+            {
+                "name": "distributionWeight",
+                "value": "1.0"
+            },
+            {
+                "name": "examRotationWeight",
+                "value": "1.0E-4"
+            },
+            {
+                "name": "instructorBackToBackConflictWeight",
+                "value": "0.0"
+            },
+            {
+                "name": "instructorDirectConflictWeight",
+                "value": "10.0"
+            },
+            {
+                "name": "instructorDistanceBackToBackConflictWeight",
+                "value": "0.0"
+            },
+            {
+                "name": "instructorMoreThanTwoADayWeight",
+                "value": "0.0"
+            },
+            {
+                "name": "isDayBreakBackToBack",
+                "value": "false"
+            },
+            {
+                "name": "largePeriod",
+                "value": "0.86"
+            },
+            {
+                "name": "largeSize",
+                "value": "600"
+            },
+            {
+                "name": "largeWeight",
+                "value": "2500000.0"
+            },
+            {
+                "name": "maxRooms",
+                "value": "4"
+            },
+            {
+                "name": "moreThanTwoADayWeight",
+                "value": "100.0"
+            },
+            {
+                "name": "mpp",
+                "value": "false"
+            },
+            {
+                "name": "periodIndexWeight",
+                "value": "1.0E-7"
+            },
+            {
+                "name": "periodSizeWeight",
+                "value": "0.5"
+            },
+            {
+                "name": "periodWeight",
+                "value": "1.0"
+            },
+            {
+                "name": "perturbationWeight",
+                "value": "0.0010"
+            },
+            {
+                "name": "roomPerturbationWeight",
+                "value": "0.1"
+            },
+            {
+                "name": "roomSizeFactor",
+                "value": "1.1"
+            },
+            {
+                "name": "roomSizeWeight",
+                "value": "0.0010"
+            },
+            {
+                "name": "roomSplitDistanceWeight",
+                "value": "0.01"
+            },
+            {
+                "name": "roomSplitWeight",
+                "value": "10.0"
+            },
+            {
+                "name": "roomWeight",
+                "value": "1.0"
+            }
+        ]
+    }
+}

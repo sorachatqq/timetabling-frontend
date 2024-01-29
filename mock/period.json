@@ -1,0 +1,76 @@
+{
+    "periods": {
+        "period": [
+            {
+                "id": "1",
+                "length": "120",
+                "day": "Mon 04/30",
+                "time": "8:00a - 10:00a",
+                "penalty": "0"
+            },
+            {
+                "id": "2",
+                "length": "120",
+                "day": "Mon 04/30",
+                "time": "10:20a - 12:20p",
+                "penalty": "0"
+            },
+            {
+                "id": "3",
+                "length": "120",
+                "day": "Mon 04/30",
+                "time": "1:00p - 3:00p",
+                "penalty": "0"
+            },
+            {
+                "id": "4",
+                "length": "120",
+                "day": "Mon 04/30",
+                "time": "3:20p - 5:20p",
+                "penalty": "0"
+            },
+            {
+                "id": "5",
+                "length": "120",
+                "day": "Mon 04/30",
+                "time": "7:00p - 9:00p",
+                "penalty": "0"
+            },
+            {
+                "id": "6",
+                "length": "120",
+                "day": "Tue 05/01",
+                "time": "8:00a - 10:00a",
+                "penalty": "0"
+            },
+            {
+                "id": "7",
+                "length": "120",
+                "day": "Tue 05/01",
+                "time": "10:20a - 12:20p",
+                "penalty": "0"
+            },
+            {
+                "id": "8",
+                "length": "120",
+                "day": "Tue 05/01",
+                "time": "1:00p - 3:00p",
+                "penalty": "0"
+            },
+            {
+                "id": "9",
+                "length": "120",
+                "day": "Tue 05/01",
+                "time": "3:20p - 5:20p",
+                "penalty": "0"
+            },
+            {
+                "id": "10",
+                "length": "120",
+                "day": "Tue 05/01",
+                "time": "7:00p - 9:00p",
+                "penalty": "0"
+            }
+        ]
+    }
+}
