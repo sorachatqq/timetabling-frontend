@@ -2,17 +2,17 @@
     "department":[
         {
             "id": "1",
-            "name": "Computer",
+            "name": "Computer Engineer",
             "code": "CN"
         },
         {
             "id": "2",
-            "name": "Civil",
+            "name": "Civil Engineer",
             "code": "CE"
         },
         {
             "id": "3",
-            "name": "Thammasart",
+            "name": "Thammasart University",
             "code": "TU"
         }
     ]
