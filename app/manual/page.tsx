@@ -1,7 +1,7 @@
 'use client'
 import Search from '@/component/search';
 import React, { useEffect, useState } from 'react';
-import { Card, Title, Text, Button, Select, MultiSelect, MultiSelectItem, NumberInput, TextInput, SelectItem, SearchSelect, SearchSelectItem } from '@tremor/react';
+import { Card, Title, Text, Button, Select, MultiSelect, MultiSelectItem, NumberInput, TextInput, SelectItem, SearchSelect, SearchSelectItem, Badge } from '@tremor/react';
 import { useRouter } from 'next/navigation'
 import exams from '../../public/json/exams.json'
 import periods from '../../public/json/period.json'
@@ -94,14 +94,20 @@ interface ICompleteDataStructure {
   };
 }
 
-const statusStyles: { [key in ICardInfo['status']]: string } = {
-  Success: 'bg-green-500',
-  Pending: 'bg-yellow-500',
-  Failed: 'bg-red-500',
+const departmentColorMapping: any = {
+  '1': 'red',
+  '2': 'green',
+  '3': 'yellow',
 };
 
-const StatusIcon = ({ status }: { status: ICardInfo['status'] }) => {
-  const style = statusStyles[status];
+const statusStyles: { [key in IExamInfo['departmentId']]: string } = {
+  1: 'bg-red-500',
+  2: 'bg-green-500',
+  3: 'bg-yellow-500',
+};
+
+const StatusIcon = ({ departmentId }: { departmentId: IExamInfo['departmentId'] }) => {
+  const style = statusStyles[departmentId];
   return <span className={`inline-block w-3 h-3 rounded-full ${style} mr-2`}></span>;
 };
 
@@ -255,6 +261,14 @@ export default function ManualPage() {
     exam.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    // Set the mounted state to true when the component mounts
+    setIsMounted(true);
+  }, []);
+
+
   useEffect(() => {
     console.log('%cpage.tsx line:246 object', 'color: #007acc;', selectedDepartmentId);
   },[selectedDepartmentId])
@@ -282,7 +296,8 @@ export default function ManualPage() {
                 key={department.id}
                 value={department.id}
               >
-                {department.name}
+                <StatusIcon departmentId={department.id}/>
+                {department.code}: {department.name}
               </SelectItem>
             ))}
           </Select>
@@ -303,7 +318,14 @@ export default function ManualPage() {
         .map((examData: IExamInfo) => (
           <Card key={examData.id} className="mb-2 p-4">
             <Text className="text-lg font-semibold mb-2">Exam ID: {examData.id}</Text>
-            <Text className="text-lg font-semibold mb-2">Subject Name: {examData.name}</Text>
+            <Text className="text-lg font-semibold mb-2">
+              Subject Name:             
+              {isMounted && (
+                <Badge size="sm" color={departmentColorMapping[examData.departmentId] || 'defaultColor'}>
+                  {examData.name}
+                </Badge>
+              )}
+            </Text>
             <Text className="mb-1">Average student per room:</Text>
             <div className="text-lg font-semibold mb-2">
               <NumberInput

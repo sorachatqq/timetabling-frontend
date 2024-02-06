@@ -215,6 +215,19 @@
                         "id": "10"
                     }
                 ]
+            },
+            {
+                "id": "6",
+                "name": "TU100",
+                "departmentId": "3",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [
+                ],
+                "room": [
+                ]
             }
         ]
     }
