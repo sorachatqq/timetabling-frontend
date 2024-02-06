@@ -45,7 +45,7 @@ const StatusIcon = ({ status }: { status: ICardInfo['status'] }) => {
 
 
 
-export default function ResultPage() {
+export default function HistoryPage() {
     const router = useRouter();
 
     const handleCardClick = (id: number) => {

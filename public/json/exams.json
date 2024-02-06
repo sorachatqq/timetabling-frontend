@@ -3,6 +3,8 @@
         "exam": [
             {
                 "id": "1",
+                "name": "CE101",
+                "departmentId": "2",
                 "length": "120",
                 "alt": "true",
                 "printOffset": "0",
@@ -44,6 +46,8 @@
             },
             {
                 "id": "2",
+                "name": "CN201",
+                "departmentId": "1",
                 "length": "120",
                 "alt": "true",
                 "printOffset": "0",
@@ -85,6 +89,8 @@
             },
             {
                 "id": "3",
+                "name": "CN301",
+                "departmentId": "1",
                 "length": "120",
                 "alt": "true",
                 "printOffset": "0",
@@ -126,6 +132,8 @@
             },
             {
                 "id": "4",
+                "name": "CE102",
+                "departmentId": "2",
                 "length": "120",
                 "alt": "true",
                 "printOffset": "0",
@@ -167,6 +175,8 @@
             },
             {
                 "id": "5",
+                "name": "CN333",
+                "departmentId": "1",
                 "length": "120",
                 "alt": "true",
                 "printOffset": "0",

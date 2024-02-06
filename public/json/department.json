@@ -1,0 +1,14 @@
+{
+    "department":[
+        {
+            "id": "1",
+            "name": "Computer",
+            "code": "CN"
+        },
+        {
+            "id": "2",
+            "name": "Civil",
+            "code": "CE"
+        }
+    ]
+}
