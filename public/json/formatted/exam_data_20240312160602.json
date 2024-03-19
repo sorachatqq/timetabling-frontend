@@ -1,0 +1,4878 @@
+{
+    "exams": {
+        "exam": [
+            {
+                "id": "1",
+                "name": "ME100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "44",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "14"
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "name": "IE121",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "name": "IE341",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "42",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "name": "SF222",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "name": "SF332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "62",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.318"
+                    }
+                ]
+            },
+            {
+                "id": "19",
+                "name": "MA111",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "21",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "20",
+                "name": "MA111",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "51",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "23",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "name": "ME100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "26",
+                "name": "ME100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "92",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "27",
+                "name": "ME100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "28",
+                "name": "ME100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "29",
+                "name": "LE241",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "22",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "30",
+                "name": "LE241",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "31",
+                "name": "CE271",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "54",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "32",
+                "name": "ME220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "33",
+                "name": "ME220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "34",
+                "name": "ME220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "35",
+                "name": "ME220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "36",
+                "name": "ME220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "37",
+                "name": "SF220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "52",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "38",
+                "name": "SF220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "39",
+                "name": "LE260",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "22",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "40",
+                "name": "DE595",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "41",
+                "name": "ME220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "42",
+                "name": "LE341",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "43",
+                "name": "CE372",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "58",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "44",
+                "name": "CE372",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "45",
+                "name": "CE372",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "46",
+                "name": "CE372",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "47",
+                "name": "ME479",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "11",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "48",
+                "name": "JP171",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "49",
+                "name": "EI331",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "50",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "51",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "52",
+                "name": "MA112",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "53",
+                "name": "SC123",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "54",
+                "name": "SC123",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "55",
+                "name": "SC123",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "48",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "56",
+                "name": "CE203",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "57",
+                "name": "CE203",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "58",
+                "name": "CE203",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "59",
+                "name": "CE332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "60",
+                "name": "CE332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "61",
+                "name": "CE332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "62",
+                "name": "CN361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "63",
+                "name": "LE467",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "64",
+                "name": "IE221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "65",
+                "name": "IE221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "66",
+                "name": "IE221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "67",
+                "name": "IE251",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "45",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "68",
+                "name": "IE251",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "69",
+                "name": "IE251",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "70",
+                "name": "IE361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "71",
+                "name": "AE323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "52",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "72",
+                "name": "AE323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "73",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "14"
+                    }
+                ]
+            },
+            {
+                "id": "74",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "14"
+                    }
+                ]
+            },
+            {
+                "id": "75",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "76",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "77",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "42",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "78",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "79",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "80",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "32",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "81",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "82",
+                "name": "CE202",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "83",
+                "name": "CE231",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "84",
+                "name": "CE231",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "85",
+                "name": "CE231",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "86",
+                "name": "CN240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "87",
+                "name": "IE416",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "88",
+                "name": "LE330",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "89",
+                "name": "LE200",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "90",
+                "name": "LE220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "91",
+                "name": "LE220",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "92",
+                "name": "LE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "93",
+                "name": "LE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "94",
+                "name": "ME210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "95",
+                "name": "ME210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "96",
+                "name": "AE285",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "97",
+                "name": "AE285",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "98",
+                "name": "SF340",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "61",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "99",
+                "name": "ME484",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "100",
+                "name": "LE240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "101",
+                "name": "AE100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "102",
+                "name": "CHE100",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "103",
+                "name": "CE429",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "104",
+                "name": "AE200",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "105",
+                "name": "CHE200",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "106",
+                "name": "CHE200",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "107",
+                "name": "AE477",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "108",
+                "name": "AE213",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "109",
+                "name": "AE213",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "110",
+                "name": "AE213",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "111",
+                "name": "CE321",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "112",
+                "name": "CE321",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "113",
+                "name": "CE322",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "114",
+                "name": "CN311",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "115",
+                "name": "CN311",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "116",
+                "name": "CN311",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "117",
+                "name": "CN311",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "118",
+                "name": "IE313",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "119",
+                "name": "IE313",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "120",
+                "name": "IE313",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "121",
+                "name": "AE326",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "11",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "122",
+                "name": "LE260",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "123",
+                "name": "LE260",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "18",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "124",
+                "name": "LE360",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "125",
+                "name": "LE365",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "88",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "126",
+                "name": "LE365",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "127",
+                "name": "LE426",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "128",
+                "name": "LE365",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "129",
+                "name": "LE360",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "130",
+                "name": "SC134",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "131",
+                "name": "SC134",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "51",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "132",
+                "name": "SC134",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "133",
+                "name": "SC134",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "43",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "134",
+                "name": "CN200",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "135",
+                "name": "LE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "136",
+                "name": "LE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "137",
+                "name": "MA251",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "138",
+                "name": "LE230",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "139",
+                "name": "AE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "8"
+                    }
+                ]
+            },
+            {
+                "id": "140",
+                "name": "AE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "9"
+                    }
+                ]
+            },
+            {
+                "id": "141",
+                "name": "AE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "9"
+                    }
+                ]
+            },
+            {
+                "id": "142",
+                "name": "AE320",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "143",
+                "name": "AE320",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "144",
+                "name": "AE320",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "145",
+                "name": "CE221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "41",
+                "period": [],
+                "room": [
+                    {
+                        "id": "18"
+                    }
+                ]
+            },
+            {
+                "id": "146",
+                "name": "CE221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "19"
+                    }
+                ]
+            },
+            {
+                "id": "147",
+                "name": "CE221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "19"
+                    }
+                ]
+            },
+            {
+                "id": "148",
+                "name": "CE223",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "149",
+                "name": "CE223",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "150",
+                "name": "CE223",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "151",
+                "name": "CE223",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "152",
+                "name": "IE409",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "153",
+                "name": "CE353",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "64",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "154",
+                "name": "CE353",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "155",
+                "name": "LE323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "156",
+                "name": "LE323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "157",
+                "name": "CE485",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "158",
+                "name": "CE485",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "42",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "159",
+                "name": "CN260",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "160",
+                "name": "IE361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "56",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "161",
+                "name": "LE240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "162",
+                "name": "LE242",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "14",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "163",
+                "name": "ME331",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "164",
+                "name": "ME331",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "165",
+                "name": "ME331",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "14",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "166",
+                "name": "AU330",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "167",
+                "name": "EI416",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "43",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "168",
+                "name": "CN334",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "169",
+                "name": "CN334",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "170",
+                "name": "AE335",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "46",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "171",
+                "name": "AE335",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "172",
+                "name": "CN201",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "173",
+                "name": "CN201",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "174",
+                "name": "LE230",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "86",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "175",
+                "name": "ME200",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "72",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.318"
+                    }
+                ]
+            },
+            {
+                "id": "176",
+                "name": "ME414",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "177",
+                "name": "ME210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "178",
+                "name": "ME210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "179",
+                "name": "LE488",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "180",
+                "name": "CN321",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "181",
+                "name": "CN321",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "182",
+                "name": "LE363",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "183",
+                "name": "LE363",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "184",
+                "name": "AE201",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "10"
+                    }
+                ]
+            },
+            {
+                "id": "185",
+                "name": "AE201",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "11"
+                    }
+                ]
+            },
+            {
+                "id": "186",
+                "name": "AE201",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "11"
+                    }
+                ]
+            },
+            {
+                "id": "187",
+                "name": "AE334",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "188",
+                "name": "AE408",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "189",
+                "name": "AE334",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "190",
+                "name": "AE334",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "191",
+                "name": "CE331",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "19"
+                    }
+                ]
+            },
+            {
+                "id": "192",
+                "name": "CE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "19"
+                    }
+                ]
+            },
+            {
+                "id": "193",
+                "name": "CE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "20"
+                    }
+                ]
+            },
+            {
+                "id": "194",
+                "name": "CE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "195",
+                "name": "CE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "196",
+                "name": "CE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "197",
+                "name": "CE341",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "198",
+                "name": "CE441",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "199",
+                "name": "CN262",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "200",
+                "name": "CN341",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "201",
+                "name": "IE312",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "8"
+                    }
+                ]
+            },
+            {
+                "id": "202",
+                "name": "IE312",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "9"
+                    }
+                ]
+            },
+            {
+                "id": "203",
+                "name": "LE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "204",
+                "name": "LE211",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "205",
+                "name": "ME444",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "206",
+                "name": "LE473",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "207",
+                "name": "ME240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "208",
+                "name": "ME240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "209",
+                "name": "ME240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "210",
+                "name": "ME240",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "211",
+                "name": "ME290",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "212",
+                "name": "ME322",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "213",
+                "name": "ME322",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "214",
+                "name": "ME322",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "215",
+                "name": "SF221",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "216",
+                "name": "IE311",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "14"
+                    }
+                ]
+            },
+            {
+                "id": "217",
+                "name": "IE311",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "218",
+                "name": "IE362",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "219",
+                "name": "CN340",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "220",
+                "name": "SC134",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "94",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "221",
+                "name": "AE372",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "222",
+                "name": "CE427",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "223",
+                "name": "CN203",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "224",
+                "name": "IE312",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "225",
+                "name": "LE380",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "226",
+                "name": "LE380",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "227",
+                "name": "LE330",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "228",
+                "name": "LE469",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "229",
+                "name": "ME323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "230",
+                "name": "ME323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "231",
+                "name": "AU450",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "232",
+                "name": "ME323",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "21",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "233",
+                "name": "LE210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "234",
+                "name": "LE210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "235",
+                "name": "LE210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "236",
+                "name": "LE210",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "237",
+                "name": "CE595",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "48",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "238",
+                "name": "TSE101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "239",
+                "name": "TSE101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "240",
+                "name": "TSE101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "241",
+                "name": "TSE101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "242",
+                "name": "CE222",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "243",
+                "name": "LE473",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "244",
+                "name": "SF230",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "245",
+                "name": "SF230",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "246",
+                "name": "SF231",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "44",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "247",
+                "name": "SF231",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "248",
+                "name": "AE233",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "249",
+                "name": "AE233",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "250",
+                "name": "AE233",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "251",
+                "name": "AE376",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "252",
+                "name": "LE314",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "253",
+                "name": "LE314",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "254",
+                "name": "CE222",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "255",
+                "name": "LE474",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "25"
+                    }
+                ]
+            },
+            {
+                "id": "256",
+                "name": "CE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "257",
+                "name": "CE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "258",
+                "name": "CE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "14",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "259",
+                "name": "IE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "21"
+                    }
+                ]
+            },
+            {
+                "id": "260",
+                "name": "IE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "261",
+                "name": "IE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "22"
+                    }
+                ]
+            },
+            {
+                "id": "262",
+                "name": "IE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "23"
+                    }
+                ]
+            },
+            {
+                "id": "263",
+                "name": "IE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "264",
+                "name": "IE250",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "24"
+                    }
+                ]
+            },
+            {
+                "id": "265",
+                "name": "IE342",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "14"
+                    }
+                ]
+            },
+            {
+                "id": "266",
+                "name": "IE342",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "267",
+                "name": "IE342",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "id": "268",
+                "name": "CN230",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "269",
+                "name": "LE320",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "51",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "270",
+                "name": "IE366",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "271",
+                "name": "ME325",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "272",
+                "name": "ME325",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "273",
+                "name": "ME325",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "274",
+                "name": "LE241",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "275",
+                "name": "CE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "276",
+                "name": "CE381",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "277",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "278",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "279",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "280",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "281",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "282",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "283",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "284",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "285",
+                "name": "ME374",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "286",
+                "name": "PB317",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "287",
+                "name": "PB317",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "288",
+                "name": "PB317",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "289",
+                "name": "PB317",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "290",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "291",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "56",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "292",
+                "name": "PB389",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "293",
+                "name": "ME332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "60",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "294",
+                "name": "ME332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "295",
+                "name": "ME332",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "296",
+                "name": "LE428",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "297",
+                "name": "MA111",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "298",
+                "name": "MA111",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "32",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "299",
+                "name": "MA111",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "300",
+                "name": "MA111",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "301",
+                "name": "AE461",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "302",
+                "name": "CE361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "54",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "303",
+                "name": "CE361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "304",
+                "name": "CE361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "305",
+                "name": "CE361",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "306",
+                "name": "MA131",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "307",
+                "name": "MA131",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "308",
+                "name": "MA131",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "309",
+                "name": "EL295",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "310",
+                "name": "EL295",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "311",
+                "name": "EL295",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "312",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "313",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "64",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "314",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "315",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "316",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "317",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "318",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "319",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "5"
+                    }
+                ]
+            },
+            {
+                "id": "320",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "id": "321",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.316"
+                    }
+                ]
+            },
+            {
+                "id": "322",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "7"
+                    }
+                ]
+            },
+            {
+                "id": "323",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "8"
+                    }
+                ]
+            },
+            {
+                "id": "324",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "8"
+                    }
+                ]
+            },
+            {
+                "id": "325",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "9"
+                    }
+                ]
+            },
+            {
+                "id": "326",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "10"
+                    }
+                ]
+            },
+            {
+                "id": "327",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "11"
+                    }
+                ]
+            },
+            {
+                "id": "328",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "11"
+                    }
+                ]
+            },
+            {
+                "id": "329",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "330",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "331",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "id": "332",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "333",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "334",
+                "name": "CN101",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "46",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "335",
+                "name": "AE474",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "336",
+                "name": "IE364",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "71",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "337",
+                "name": "CE351",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "338",
+                "name": "LE364",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "339",
+                "name": "ME430",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "2"
+                    }
+                ]
+            },
+            {
+                "id": "340",
+                "name": "LE364",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "341",
+                "name": "LE380",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "id": "342",
+                "name": "LE364",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "343",
+                "name": "LE364",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "id": "344",
+                "name": "CN351",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "45",
+                "period": [],
+                "room": [
+                    {
+                        "id": "13"
+                    }
+                ]
+            },
+            {
+                "id": "345",
+                "name": "IE261",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "66",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "346",
+                "name": "IE261",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "17"
+                    }
+                ]
+            },
+            {
+                "id": "347",
+                "name": "IE261",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            },
+            {
+                "id": "348",
+                "name": "IE261",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "12"
+                    }
+                ]
+            }
+        ]
+    }
+}
