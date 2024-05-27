@@ -49,7 +49,7 @@ export default function HistoryPage() {
     const router = useRouter();
 
     const handleCardClick = (id: number) => {
-        router.push(`/result/${id}`);
+        router.push(`/result/`);
     };
 
     return (

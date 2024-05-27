@@ -1,0 +1,5158 @@
+{
+    "exams": {
+        "exam": [
+            {
+                "id": "ME100",
+                "name": "กราฟิกวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "44",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "",
+                "period": [],
+                "room": [
+                    {
+                        "id": ""
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "IE121",
+                "name": "วัสดวุ ิศวกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "IE341",
+                "name": "วิศวกรรมความปลอดภัย",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "42",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "SF222",
+                "name": "การวิเคราะห์และการเขียนแบบโครงสร้างซอฟตแ์ วร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "SF332",
+                "name": "การทดสอบและควบคุมคุณภาพทางซอฟตแ์ วร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "62",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.318"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "MA111",
+                "name": "แคลคูลัสพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "21",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "MA111",
+                "name": "แคลคูลัสพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "51",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME100",
+                "name": "กราฟิกวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME100",
+                "name": "กราฟิกวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "92",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "ME100",
+                "name": "กราฟิกวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "ME100",
+                "name": "กราฟิกวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE241",
+                "name": "อุปกรณ์และวงจรอิเล็กทรอนิกส์พื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "22",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "LE241",
+                "name": "อุปกรณ์และวงจรอิเล็กทรอนิกส์พื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE271",
+                "name": "กลศาสตร์ของไหลส าหรับวิศวกรโยธา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "54",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "ME220",
+                "name": "กลศาสตร์วิศวกรรม-พลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME220",
+                "name": "กลศาสตร์วิศวกรรม-พลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME220",
+                "name": "กลศาสตร์วิศวกรรม-พลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME220",
+                "name": "กลศาสตร์วิศวกรรม-พลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME220",
+                "name": "กลศาสตร์วิศวกรรม-พลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "SF220",
+                "name": "วิศวกรรมซอฟตแ์ วร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "52",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "SF220",
+                "name": "วิศวกรรมซอฟตแ์ วร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE260",
+                "name": "เครอื่ งจักรกลไฟฟ้า 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "22",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "DE595",
+                "name": "กฎหมายเกี่ยวกับอาคาร และการควบคุม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME220",
+                "name": "กลศาสตร์วิศวกรรม – พลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "LE341",
+                "name": "อิเล็กทรอนิกส์กายภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "CE372",
+                "name": "วิศวกรรมชลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "58",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE372",
+                "name": "วิศวกรรมชลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE372",
+                "name": "วิศวกรรมชลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE372",
+                "name": "วิศวกรรมชลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME479",
+                "name": "ปรากฏการณ์การถ่ายโอนในวัสดพุ รุน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "11",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "JP171",
+                "name": "ภาษาญี่ปุ่นส าหรับผู้เรมิ่ ตน้ 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "EI331",
+                "name": "เซ็นเซอร์และอุปกรณ์แปลงสัญญาณในอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "MA112",
+                "name": "เรขาคณิตวิเคราะห์และแคลคูลัสประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "SC123",
+                "name": "เคมีพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "SC123",
+                "name": "เคมีพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "SC123",
+                "name": "เคมีพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "48",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "CE203",
+                "name": "คณิตศาสตร์ประยุกตส์ าหรับวิศวกรโยธา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE203",
+                "name": "คณิตศาสตร์ประยุกตส์ าหรับวิศวกรโยธา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE203",
+                "name": "กลศาสตร์ของไหลส าหรับวิศวกรโยธา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "CE332",
+                "name": "การออกแบบโครงสร้างไม้และโครงสร้างเหล็ก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "CE332",
+                "name": "การออกแบบโครงสร้างไม้และโครงสร้างเหล็ก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE332",
+                "name": "การออกแบบโครงสร้างไม้และโครงสร้างเหล็ก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN361",
+                "name": "การออกแบบระบบไมโครโปรเซสเซอร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "LE467",
+                "name": "โรงไฟฟ้าและสถานีไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE221",
+                "name": "วัสดวุ ิศวกรรม 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE221",
+                "name": "วัสดวุ ิศวกรรม 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+            {
+                "id": "IE221",
+                "name": "วัสดวุ ิศวกรรม 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE251",
+                "name": "กรรมวิธีการผลิตส าหรับวิศวกรรมเครอื่ งกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "45",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE251",
+                "name": "กรรมวิธีการผลิตส าหรับวิศวกรรมเครอื่ งกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "IE251",
+                "name": "กรรมวิธีการผลิตส าหรับวิศวกรรมเครอื่ งกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "IE361",
+                "name": "การวิเคราะห์ข้อมูลอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE323",
+                "name": "ความปลอดภัยทางวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "52",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "AE323",
+                "name": "ความปลอดภัยทางวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม-สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/1"
+                    }
+                ]
+            },
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม-สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม-สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม – สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม-สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "42",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม – สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม – สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม – สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "32",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม – สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+            {
+                "id": "CE202",
+                "name": "กลศาสตร์วิศวกรรม – สถิตยศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE231",
+                "name": "คอนกรีตและวัสดกุ ่อสร้าง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE231",
+                "name": "คอนกรีตและวัสดกุ ่อสร้าง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "CE231",
+                "name": "คอนกรีตและวัสดกุ ่อสร้าง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN240",
+                "name": "วิทยาศาสตร์ข้อมูลสาหรับการประมวลผลสัญญาณ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "IE416",
+                "name": "การบริหารโซ่อุปทาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE330",
+                "name": "การวิเคราะห์เชิงสถิติ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "LE200",
+                "name": "คณิตศาสตร์วิศวกรรมไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE220",
+                "name": "ทฤษฎีสนามแม่เหล็กไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE220",
+                "name": "ทฤษฎีสนามแม่เหล็กไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "LE381",
+                "name": "ระบบควบคุม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-3"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "LE381",
+                "name": "ระบบควบคุม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME210",
+                "name": "กลศาสตร์วัสดุ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME210",
+                "name": "กลศาสตร์วัสดุ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE285",
+                "name": "ปฏิบัตกิารเคมีส าหรับวิศวกรรมเคมี2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "AE285",
+                "name": "ปฏิบัตกิารเคมีส าหรับวิศวกรรมเคมี2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+            {
+                "id": "SF340",
+                "name": "การจัดการโครงแบบและบ ารุงรักษาซอฟตแ์ วร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "61",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME484",
+                "name": "หัวข้อพิเศษทางวิศวกรรมเครอื่ งกล 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "LE240",
+                "name": "การวิเคราะห์วงจรไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "50",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE100",
+                "name": "เคมีวิเคราะห์และเคมีเชิงฟิสิกส์พื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-3"
+                    }
+                ]
+            },
+            {
+                "id": "CHE100",
+                "name": "เคมีวิเคราะห์และเคมีเชิงฟิสิกส์พื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-3"
+                    }
+                ]
+            },
+            {
+                "id": "CE429",
+                "name": "พฤตกิรรมและการออกแบบโครงสร้างเหล็กขั้นสูง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-3"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE200",
+                "name": "เคมีอินทรีย์และชีวเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "CHE200",
+                "name": "เคมีอินทรีย์และชีวเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "CHE200",
+                "name": "เคมีอินทรีย์และชีวเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "AE477",
+                "name": "การออกแบบกระบวนการเคมีในอุตสาหกรรมปิโตรเคมี2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE213",
+                "name": "เธอร์โมไดนามิกส์ส าหรับวิศวกรรมเคมี1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE213",
+                "name": "เธอร์โมไดนามิกส์ส าหรับวิศวกรรมเคมี1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "AE213",
+                "name": "เธอร์โมไดนามิกส์ส าหรับวิศวกรรมเคมี1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE321",
+                "name": "การวิเคราะห์โครงสร้าง 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+            {
+                "id": "CE321",
+                "name": "การวิเคราะห์โครงสร้าง 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+            {
+                "id": "CE322",
+                "name": "การวิเคราะห์โครงสร้าง 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN311",
+                "name": "ระบบปฏิบัตกิาร",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN311",
+                "name": "ระบบปฏิบัตกิาร",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+            {
+                "id": "CN311",
+                "name": "ระบบปฏิบัตกิาร",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN311",
+                "name": "ระบบปฏิบัตกิาร",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE313",
+                "name": "วิศวกรรมการบ ารุงรักษา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "IE313",
+                "name": "วิศวกรรมการบ ารุงรักษา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE313",
+                "name": "วิศวกรรมการบ ารุงรักษา",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "AE326",
+                "name": "การป้องกันมลพิษ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "11",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE260",
+                "name": "เครอื่ งจักรกลไฟฟ้า 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE260",
+                "name": "เครอื่ งจักรกลไฟฟ้า 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "18",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+            {
+                "id": "LE360",
+                "name": "ระบบไฟฟ้าก าลัง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE365",
+                "name": "การวิเคราะห์ระบบไฟฟ้าก าลัง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "88",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE365",
+                "name": "การวิเคราะห์ระบบไฟฟ้าก าลัง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "LE426",
+                "name": "การสื่อสารทางแสง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "LE365",
+                "name": "การวิเคราะห์ระบบไฟฟ้าก าลัง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "LE360",
+                "name": "ระบบไฟฟ้าก าลัง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "SC134",
+                "name": "ฟิสิกส์ส าหรับวิศวกร 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "SC134",
+                "name": "ฟิสิกส์ส าหรับวิศวกร 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "51",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "SC134",
+                "name": "ฟิสิกส์ส าหรับวิศวกร 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "SC134",
+                "name": "ฟิสิกส์ส าหรับวิศวกร 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "43",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN200",
+                "name": "คณิตศาสตร์แบบไม่ตอ่ เนื่อง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "LE381",
+                "name": "ระบบควบคุม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "LE381",
+                "name": "ระบบควบคุม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA251",
+                "name": "วิธีเชิงตวัเลขและการประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "LE230",
+                "name": "เทคนิคเชิงตวัเลขทางวิศวกรรมไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE250",
+                "name": "คณิตศาสตร์ประยุกตส์ าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.319"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE250",
+                "name": "คณิตศาสตร์ประยุกตส์ าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.320"
+                    }
+                ]
+            },
+            {
+                "id": "AE250",
+                "name": "คณิตศาสตร์ประยุกตส์ าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.320"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE320",
+                "name": "การบ าบัดของเสียจากอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE320",
+                "name": "การบ าบัดของเสียจากอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "AE320",
+                "name": "การบ าบัดของเสียจากอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE221",
+                "name": "กลศาสตร์ของแข็ง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "41",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-1"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "CE221",
+                "name": "กลศาสตร์ของแข็ง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-2"
+                    }
+                ]
+            },
+            {
+                "id": "CE221",
+                "name": "กลศาสตร์ของแข็ง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-2"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE223",
+                "name": "การวิเคราะห์โครงสร้าง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE223",
+                "name": "การวิเคราะห์โครงสร้าง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+            {
+                "id": "CE223",
+                "name": "การวิเคราะห์โครงสร้าง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE223",
+                "name": "การวิเคราะห์โครงสร้าง 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+            {
+                "id": "IE409",
+                "name": "ระบบบริหารคุณภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE353",
+                "name": "วิศวกรรมฐานราก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "64",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE353",
+                "name": "วิศวกรรมฐานราก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE323",
+                "name": "การสื่อสารดจิิทัล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE323",
+                "name": "การสื่อสารดจิิตอล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE485",
+                "name": "การบริหารจัดการทางวิศวกรรมสิ่งแวดล้อม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "CE485",
+                "name": "การบริหารจัดการทางวิศวกรรมสิ่งแวดล้อม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "42",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN260",
+                "name": "วงจรไฟฟ้าและอิเล็กทรอนิกส์ส าหรับวิศวกรคอมพิวเตอร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE361",
+                "name": "การวิเคราะห์ข้อมูลอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "56",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "LE240",
+                "name": "การวิเคราะห์วงจรไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "LE242",
+                "name": "การออกแบบวงจรดจิิทัล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "14",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME331",
+                "name": "เครอื่ งยนตส์ ันดาปภายใน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME331",
+                "name": "เครอื่ งยนตส์ ันดาปภายใน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+            {
+                "id": "ME331",
+                "name": "เครอื่ งยนตส์ ันดาปภายใน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "14",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+            {
+                "id": "AU330",
+                "name": "เครอื่ งยนตส์ ันดาปภายใน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+
+            {
+                "id": "EI416",
+                "name": "การอนุรักษ์และการจัดการพลังงาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "43",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN334",
+                "name": "การพัฒนาโปรแกรมประยุกตบ์ นเว็บ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN334",
+                "name": "การพัฒนาโปรแกรมประยุกตบ์ นเว็บ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-3"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE335",
+                "name": "กระบวนการแยกส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "46",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "AE335",
+                "name": "กระบวนการแยกส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN201",
+                "name": "การโปรแกรมเชิงวัตถุ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "CN201",
+                "name": "การโปรแกรมเชิงวัตถุ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE230",
+                "name": "เทคนิคเชิงตวัเลขทางวิศวกรรมไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "86",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "ME200",
+                "name": "การเขียนแบบเครอื่ งกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "72",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.318"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "ME414",
+                "name": "การเสียหายของวัสดทุ างวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "ME210",
+                "name": "กลศาสตร์วัสดุ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "23",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "ME210",
+                "name": "กลศาสตร์วัสดุ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE488",
+                "name": "ระบบอัตโนมัตทิางอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "CN321",
+                "name": "การสื่อสารข้อมูลและเครือข่ายคอมพิวเตอร์1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN321",
+                "name": "การสื่อสารข้อมูลและเครือข่ายคอมพิวเตอร์1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE363",
+                "name": "เครอื่ งจักรกลไฟฟ้า 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "LE363",
+                "name": "เครอื่ งจักรกลไฟฟ้า 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE201",
+                "name": "เคมีประยุกตส์ าหรับวิศวกรเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.321"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE201",
+                "name": "เคมีประยุกตส์ าหรับวิศวกรเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.322"
+                    }
+                ]
+            },
+            {
+                "id": "AE201",
+                "name": "เคมีประยุกตส์ าหรับวิศวกรเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.322"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE334",
+                "name": "การถ่ายโอนมวลส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+            {
+                "id": "AE408",
+                "name": "หัวข้อพิเศษทางวิศวกรรมเคมี3",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE334",
+                "name": "การถ่ายโอนมวลส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+            {
+                "id": "AE334",
+                "name": "การถ่ายโอนมวลส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE331",
+                "name": "การออกแบบโครงสร้างคอนกรีตเสริมเหล็ก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-2"
+                    }
+                ]
+            },
+            {
+                "id": "CE211",
+                "name": "การส ารวจ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-2"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE211",
+                "name": "การส ารวจ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "37",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.604-3"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE211",
+                "name": "การส ารวจ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE211",
+                "name": "การส ารวจ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+            {
+                "id": "CE211",
+                "name": "การส ารวจ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE341",
+                "name": "วิศวกรรมการก่อสร้างและการจัดการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "CE441",
+                "name": "วิศวกรรมการก่อสร้างและการจัดการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN262",
+                "name": "การออกแบบวงจรดจิิทัลทางวิศวกรรมคอมพิวเตอร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "CN341",
+                "name": "การเรียนรเู้ชิงลึก",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE312",
+                "name": "การวางแผนและควบคุมการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.319"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE312",
+                "name": "การวางแผนและควบคุมการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.320"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE211",
+                "name": "ทฤษฎีความน่าจะเป็นและกระบวนการสุ่ม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE211",
+                "name": "ทฤษฎีความน่าจะเป็นและกระบวนการสุ่ม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME444",
+                "name": "การออกแบบระบบท่อทางวิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE473",
+                "name": "วิศวกรรมไฟฟ้าแรงสูง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME240",
+                "name": "กลศาสตร์ของไหล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME240",
+                "name": "กลศาสตร์ของไหล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME240",
+                "name": "กลศาสตร์ของไหล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "19",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+            {
+                "id": "ME240",
+                "name": "กลศาสตร์ของไหล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+            {
+                "id": "ME290",
+                "name": "กลศาสตร์ของไหลเบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME322",
+                "name": "การสั่นสะเทือนเชิงกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "ME322",
+                "name": "การสั่นสะเทือนเชิงกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "ME322",
+                "name": "การสั่นสะเทือนเชิงกล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+            {
+                "id": "SF221",
+                "name": "กระบวนการทางซอฟตแ์ วร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE311",
+                "name": "การศึกษาการปฏิบัตงิานทางอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE311",
+                "name": "การศึกษาการปฏิบัตงิานทางอุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "IE362",
+                "name": "การควบคุมคุณภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN340",
+                "name": "การเรียนรขู้องเครอื่ ง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "SC134",
+                "name": "ฟิสิกส์ส าหรับวิศวกร 2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "94",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+
+
+
+            {
+                "id": "AE372",
+                "name": "พื้นฐานอุปกรณ์และเครอื่ งมือวัดในกระบวนการผลิตของอุตสาหกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+            {
+                "id": "CE427",
+                "name": "วิธีไฟไนตเ์อลิเมนตเ์บื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN203",
+                "name": "โครงสร้างข้อมูลและขั้นตอนวิธี2",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "IE312",
+                "name": "การวางแผนและควบคุมการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE380",
+                "name": "เครอื่ งมือวัดและการวัดทางไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "13",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "LE380",
+                "name": "เครอื่ งมือวัดและการวัดทางไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "LE330",
+                "name": "การวิเคราะห์เชิงสถิติ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE469",
+                "name": "การขับเคลื่อนดว้ยก าลังไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "ME323",
+                "name": "ระบบควบคุมอัตโนมัติ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME323",
+                "name": "ระบบควบคุมอัตโนมัติ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "16",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "AU450",
+                "name": "การควบคุมยานยนต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME323",
+                "name": "ระบบควบคุมอัตโนมัติ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "21",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "LE210",
+                "name": "สัญญาณและระบบ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE210",
+                "name": "สัญญาณและระบบ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "LE210",
+                "name": "สัญญาณและระบบ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "LE210",
+                "name": "สัญญาณและระบบ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE595",
+                "name": "ความรเู้บื้องตน้ ทางดา้นการพัฒนาอสังหาริมทรัพย์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "48",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "TSE101",
+                "name": "เทคโนโลยีสารสนเทศสมัยใหม่เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "TSE101",
+                "name": "เทคโนโลยีสารสนเทศสมัยใหม่เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "TSE101",
+                "name": "เทคโนโลยีสารสนเทศสมัยใหม่เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "TSE101",
+                "name": "เทคโนโลยีสารสนเทศสมัยใหม่เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE222",
+                "name": "กลศาสตร์ของแข็งประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "LE473",
+                "name": "วิศวกรรมไฟฟ้าแรงสูง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "SF230",
+                "name": "พีชคณิตเชิงเส้นและวิธีการเชิงเลขส าหรับวิศวกรคอมพิวเตอร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "53",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "SF230",
+                "name": "พีชคณิตเชิงเส้นและวิธีการเชิงเลขส าหรับวิศวกรคอมพิวเตอร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "SF231",
+                "name": "โครงสร้างข้อมูลและขั้นตอนวิธี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "44",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "SF231",
+                "name": "โครงสร้างข้อมูลและขั้นตอนวิธี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "AE233",
+                "name": "กลศาสตร์ของไหลส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE233",
+                "name": "กลศาสตร์ของไหลส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "AE233",
+                "name": "กลศาสตร์ของไหลส าหรับวิศวกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "AE376",
+                "name": "การจัดการและการอนุรักษ์พลังงาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "LE314",
+                "name": "การประมวลผลสัญญาณดจิิทัล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+            {
+                "id": "LE314",
+                "name": "การประมวลผลสัญญาณดจิิตอล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE222",
+                "name": "กลศาสตร์ของแข็งประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "49",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+            {
+                "id": "LE474",
+                "name": "การประยุกตค์ อมพิวเตอร์ในการวิเคราะห์ระบบไฟฟ้าก าลัง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.710"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE381",
+                "name": "วิศวกรรมการประปาและสุขาภิบาล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "CE381",
+                "name": "วิศวกรรมการประปาและสุขาภิบาล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "CE381",
+                "name": "วิศวกรรมการประปาและสุขาภิบาล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "14",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE250",
+                "name": "กรรมวิธีการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE250",
+                "name": "กรรมวิธีการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+            {
+                "id": "IE250",
+                "name": "กรรมวิธีการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.605/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE250",
+                "name": "กรรมวิธีการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE250",
+                "name": "กรรมวิธีการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+            {
+                "id": "IE250",
+                "name": "กรรมวิธีการผลิต",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.606/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE342",
+                "name": "การยศาสตร์อุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "31",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/1"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE342",
+                "name": "การยศาสตร์อุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+            {
+                "id": "IE342",
+                "name": "การยศาสตร์อุตสาหกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.505/2"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "CN230",
+                "name": "ระบบฐานข้อมูล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE320",
+                "name": "ทฤษฎีการสื่อสาร",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "51",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "IE366",
+                "name": "หัวข้อพิเศษดา้นการวิจัยด าเนินงานและสถิตอิุตสาหกรรม 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "ME325",
+                "name": "นิวเมตกิส์และไฮดรอลิกส์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "10",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "ME325",
+                "name": "นิวเมตกิส์และไฮดรอลิกส์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+            {
+                "id": "ME325",
+                "name": "นิวเมตกิส์และไฮดรอลิกส์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE241",
+                "name": "อุปกรณ์และวงจรอิเล็กทรอนิกส์พื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "CE381",
+                "name": "วิศวกรรมการประปาและสุขาภิบาล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "CE381",
+                "name": "วิศวกรรมการประปาและสุขาภิบาล",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "38",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "36",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "3",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "ME374",
+                "name": "เทคโนโลยียานยนต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB317",
+                "name": "เพศภาวะ เพศวิถีและสุขภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "PB317",
+                "name": "เพศภาวะ เพศวิถีและสุขภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "PB317",
+                "name": "เพศภาวะ เพศวิถีและสุขภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "PB317",
+                "name": "เพศภาวะ เพศวิถีและสุขภาพ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "56",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "PB389",
+                "name": "การจัดการมูลฝอยแบบบูรณาการ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "ME332",
+                "name": "วิศวกรรมโรงไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "60",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME332",
+                "name": "วิศวกรรมโรงไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "ME332",
+                "name": "วิศวกรรมโรงไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "8",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "LE428",
+                "name": "วิศวกรรมสายอากาศ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA111",
+                "name": "แคลคูลัสพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "33",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA111",
+                "name": "แคลคูลัสพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "32",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA111",
+                "name": "แคลคูลัสพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA111",
+                "name": "แคลคูลัสพื้นฐาน",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "24",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE461",
+                "name": "พลศาสตร์ของกระบวนการและการควบคุม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE361",
+                "name": "วิศวกรรมการทาง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "54",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE361",
+                "name": "วิศวกรรมการทาง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "12",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE361",
+                "name": "วิศวกรรมการทาง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CE361",
+                "name": "วิศวกรรมการทาง",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+            {
+                "id": "MA131",
+                "name": "พีชคณิตเชิงเส้นประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "MA131",
+                "name": "พีชคณิตเชิงเส้นประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "MA131",
+                "name": "พีชคณิตเชิงเส้นประยุกต์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "EL295",
+                "name": "ภาษาอังกฤษเชิงวิชาการและทักษะศึกษา 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "35",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "EL295",
+                "name": "ภาษาอังกฤษเชิงวิชาการและทักษะศึกษา 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "EL295",
+                "name": "ภาษาอังกฤษเชิงวิชาการและทักษะศึกษา 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "39",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "64",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "15",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "1",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.310"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.311"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "26",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.316"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.317"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.319"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.319"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "29",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.320"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "27",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.321"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.322"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "4",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.322"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "17",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "20",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.308"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "7",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "30",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN101",
+                "name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องตน้",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "46",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "AE474",
+                "name": "การออกแบบกระบวนการและโรงงานอุตสาหกรรมเคมี",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "6",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "IE364",
+                "name": "การวิจัยด าเนินงาน 1",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "71",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+
+
+            {
+                "id": "CE351",
+                "name": "ปฐพีกลศาสตร์",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "47",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+
+
+
+            {
+                "id": "LE364",
+                "name": "การออกแบบระบบไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+            {
+                "id": "ME430",
+                "name": "การท าความเย็นและการปรับอากาศ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.303"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE364",
+                "name": "การออกแบบระบบไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "25",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+            {
+                "id": "LE380",
+                "name": "เครอื่ งมือวัดและการวัดทางไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "9",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.309"
+                    }
+                ]
+            },
+
+            {
+                "id": "LE364",
+                "name": "การออกแบบระบบไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "28",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+            {
+                "id": "LE364",
+                "name": "การออกแบบระบบไฟฟ้า",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "5",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.302"
+                    }
+                ]
+            },
+
+            {
+                "id": "CN351",
+                "name": "การรักษาความปลอดภัยส าหรับโปรแกรมประยุกตบ์ นเว็บ",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "45",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.504"
+                    }
+                ]
+            },
+
+            {
+                "id": "IE261",
+                "name": "สถิตวิิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "66",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "IE261",
+                "name": "สถิตวิิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "34",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.511"
+                    }
+                ]
+            },
+            {
+                "id": "IE261",
+                "name": "สถิตวิิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "40",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            },
+            {
+                "id": "IE261",
+                "name": "สถิตวิิศวกรรม",
+                "length": "120",
+                "alt": "true",
+                "printOffset": "0",
+                "average": "2",
+                "period": [],
+                "room": [
+                    {
+                        "id": "วศ.503"
+                    }
+                ]
+            }
+        ]
+    }
+}

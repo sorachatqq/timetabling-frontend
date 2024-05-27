@@ -94,6 +94,23 @@ interface ICompleteDataStructure {
   };
 }
 
+interface RootObject {
+  instructors: Instructors;
+}
+
+interface Instructors {
+  instructor: Instructor[];
+}
+
+interface Instructor {
+  id: string;
+  exam: Exam[];
+}
+
+interface Exam {
+  id: string;
+}
+
 const departmentColorMapping: any = {
   '1': 'red',
   '2': 'green',
@@ -142,12 +159,20 @@ export default function ManualPage() {
     [exam.id]: exam.room.map((p) => p.id),
   })).reduce((acc: any, val: any) => ({ ...acc, ...val }), {});
 
+  const initialInstructors = instructors.instructors.instructor.map((instructor: Instructor) => ({
+    instructor,
+  })).reduce((acc: any, val: any) => ({ ...acc, ...val }), {});
+
   const [selectedPeriods, setSelectedPeriods] = useState<{ [examId: string]: string[] }>(
     initialSelectedPeriods
   );
 
   const [selectedRooms, setSelectedRooms] = useState<{ [roomId: string]: string[] }>(
     initialRooms
+  );
+
+  const [selectedInstructors, setSelectInsreuctors] = useState<{ [instructorId: string]: string[] }>(
+    initialInstructors
   );
 
   const handleAverageChange = (examId: any, newAverage: any) => {
@@ -169,6 +194,13 @@ export default function ManualPage() {
     setSelectedRooms((prevSelectedPeriods) => ({
       ...prevSelectedPeriods,
       [examId]: selectedRoomIds,
+    }));
+  };
+
+  const handleInstructorChange = (instructorId: string, selectInstructorIds: any[]) => {
+    setSelectInsreuctors((prevSelectedPeriods) => ({
+      ...prevSelectedPeriods,
+      [instructorId]: selectInstructorIds,
     }));
   };
 
@@ -210,6 +242,13 @@ export default function ManualPage() {
     setSelectedRooms(prevSelectedRooms => ({
       ...prevSelectedRooms,
       [examId]: newSelectedRooms,
+    }));
+  };  
+
+  const handleRemoveInstructor = (examId: string, newSelectedInstructors: string[]) => {
+    setSelectInsreuctors(prevSelectedInstructor => ({
+      ...prevSelectedInstructor,
+      [examId]: newSelectedInstructors,
     }));
   };  
 
@@ -362,6 +401,21 @@ export default function ManualPage() {
                 {rooms.rooms.room.map((room: IRoomInfo) => (
                   <MultiSelectItem key={room.id} value={room.id}>
                     {`Room: ${room.id} Size: ${room.size}`}
+                  </MultiSelectItem>
+                ))}
+              </MultiSelect>
+            </div>
+            <div>
+              <Text className="mb-1">Select Instructor:</Text>
+              <MultiSelect
+                value={selectedInstructors[examData.id] || []}
+                onChange={(selectedItems: any) => handleInstructorChange(examData.id, selectedItems)}
+                onValueChange={(removedItemId: any) => handleRemoveInstructor(examData.id, removedItemId)}
+                placeholder="Select Instructors"
+              >
+                {instructors.instructors.instructor.map((instructor: Instructor) => (
+                  <MultiSelectItem key={instructor.id} value={instructor.id}>
+                    {`Instructor: ${instructor.id}`}
                   </MultiSelectItem>
                 ))}
               </MultiSelect>
